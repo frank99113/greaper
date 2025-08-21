@@ -14349,8 +14349,8 @@ function g0(h) {
 }
 const jc =
     "https://dexscreener.com/ethereum/0xcomingsoon",
-  p0 = "https://x.com/GreenReaperMatt",
-  b0 = "https://t.me/GreenReaperMattFurie",
+  p0 = "https://x.com/greaperbyfurie",
+  b0 = "https://t.me/greaperbyfurie",
   S0 =
     "https://dexscreener.com/ethereum/0xcomingsoon",
   E0 =
