@@ -14349,7 +14349,7 @@ function g0(h) {
 }
 const jc =
     "https://dexscreener.com/ethereum/0xcomingsoon",
-  p0 = "https://x.com/greaperbyfurie",
+  p0 = "https://x.com/greapertokenx",
   b0 = "https://t.me/greaper_community",
   S0 =
     "https://dexscreener.com/ethereum/0xcomingsoon",
