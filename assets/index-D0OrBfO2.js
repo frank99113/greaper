@@ -14348,11 +14348,11 @@ function g0(h) {
   })(h);
 }
 const jc =
-    "https://dexscreener.com/ethereum/0x9FAB63812476FA4F4e8806D5297452dBC2c1C67c",
-  p0 = "https://x.com/greapertokenx",
-  b0 = "https://t.me/greaper_community",
+    "https://dexscreener.com/ethereum/0xcomingsoon",
+  p0 = "https://x.com/GreaperETH",
+  b0 = "https://t.me/GreaperPortal",
   S0 =
-    "https://dexscreener.com/ethereum/0x9FAB63812476FA4F4e8806D5297452dBC2c1C67c",
+    "https://dexscreener.com/ethereum/0xcomingsoon",
   E0 =
     "data:image/png;base64,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",
   T0 =
@@ -14482,7 +14482,7 @@ function O0() {
                         children: [
                           _.jsx(ni, {}),
                           _.jsx("a", {
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x9FAB63812476FA4F4e8806D5297452dBC2c1C67c",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                             target: "_blank",
                             className: "btn",
                             children: "BUY $GREAPER",
@@ -14499,7 +14499,7 @@ function O0() {
                 children: [
                   _.jsx(ni, { className: "hidden md:!flex" }),
                   _.jsx("a", {
-                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x9FAB63812476FA4F4e8806D5297452dBC2c1C67c",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                     target: "_blank",
                     className: "btn",
                     children: "BUY $GREAPER",
@@ -14671,7 +14671,7 @@ function U0() {
               children: [
                 _.jsx(ni, {}),
                 _.jsx("a", {
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x9FAB63812476FA4F4e8806D5297452dBC2c1C67c",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                   className:
                     "btn md:min-h-16 lg:min-h-17 text-lg md:text-xl xl:text-2xl px-8 md:px-10 lg:px-12 xl:px-13",
                   children: "BUY $GREAPER",
@@ -14980,7 +14980,7 @@ function k0() {
                   children: "Tokenomics",
                 }),
                 _.jsx(J0, {
-                  address: "0x9FAB63812476FA4F4e8806D5297452dBC2c1C67c",
+                  address: "0xcomingsoon",
                 }),
                 _.jsx("img", {
                   src: Z0,
